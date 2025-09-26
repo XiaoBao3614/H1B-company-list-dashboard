@@ -1,4 +1,4 @@
-📥 下载方法 (How to Download)
+## 📥 下载方法 (How to Download)
 
 中文：
 
@@ -22,7 +22,7 @@ Unzip the file to access all project files.
 
 H1B Interactive Dashboard (Offline)
 
-##中英文说明 / Bilingual Guide
+## 中英文说明 / Bilingual Guide
 
 📌 Purpose / 工具用途
 
