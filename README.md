@@ -1,6 +1,28 @@
+📥 下载方法 (How to Download)
+
+中文：
+
+打开本项目仓库页面。
+
+点击页面右上角的绿色 Code 按钮。
+
+在下拉菜单中选择 Download ZIP。
+
+解压缩后即可获得完整项目文件。
+
+English:
+
+Open this project’s repository page.
+
+Click the green Code button in the top right corner.
+
+Select Download ZIP from the dropdown menu.
+
+Unzip the file to access all project files.
+
 H1B Interactive Dashboard (Offline)
 
-中英文说明 / Bilingual Guide
+##中英文说明 / Bilingual Guide
 
 📌 Purpose / 工具用途
 
